@@ -19,12 +19,17 @@
 
 ## Preview
 
-<p align="center">
-  <img src="./assets/screenshots/welcome.png" width="190" alt="Welcome screen" />
-  <img src="./assets/screenshots/start-game.png" width="190" alt="Start game screen" />
-  <img src="./assets/screenshots/gameplay.png" width="190" alt="Gameplay screen" />
-  <img src="./assets/screenshots/game-over.png" width="190" alt="Game over screen" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4aebe818-9c74-4096-b421-19baa94df51b" width="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-13 at 03 58 22" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e302af38-2bba-43a9-ba85-3db6db6d5480" width="120" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-13 at 03 58 07" /></td>
+    <td><img src="./assets/screenshots/welcome.png" width="120" alt="Welcome screen" /></td>
+    <td><img src="./assets/screenshots/start-game.png" width="120" alt="Start game screen" /></td>
+    <td><img src="./assets/screenshots/gameplay.png" width="120" alt="Gameplay screen" /></td>
+    <td><img src="./assets/screenshots/game-over.png" width="120" alt="Game over screen" /></td>
+  </tr>
+</table>
+
 
 ## Highlights
 
