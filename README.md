@@ -20,11 +20,10 @@
 ## Preview
 
 <p align="center">
-<img width="200" height="400" alt="Screenshot 2026-05-12 at 12 35 28" src="https://github.com/user-attachments/assets/df6525e6-3b45-4b64-a8e2-41b60e0793ae" />
-<img width="200" height="400" alt="Screenshot 2026-05-12 at 12 34 36" src="https://github.com/user-attachments/assets/158ceb13-6d5b-426c-9039-cb9fa8b67a12" />
-<img width="200" height="400" alt="Screenshot 2026-05-12 at 12 34 44" src="https://github.com/user-attachments/assets/2eceb9eb-5844-4681-8d38-2d260ca0f7d0" />
-<img width="200" height="400" alt="Screenshot 2026-05-12 at 12 35 14" src="https://github.com/user-attachments/assets/e9699bda-1c00-4800-928c-944d9c94a075" />
-
+  <img src="./assets/screenshots/welcome.png" width="190" alt="Welcome screen" />
+  <img src="./assets/screenshots/start-game.png" width="190" alt="Start game screen" />
+  <img src="./assets/screenshots/gameplay.png" width="190" alt="Gameplay screen" />
+  <img src="./assets/screenshots/game-over.png" width="190" alt="Game over screen" />
 </p>
 
 ## Highlights
